@@ -103,11 +103,7 @@ GEM
     debug (1.10.0)
       irb (~> 1.10)
       reline (>= 0.3.8)
-<<<<<<< HEAD
-    dotenv (3.1.6)
-=======
     dotenv (3.1.7)
->>>>>>> fe92c1a (chore: Update gems to their latest versions)
     drb (2.2.1)
     ed25519 (1.3.0)
     erubi (1.13.1)
@@ -131,11 +127,7 @@ GEM
     jbuilder (2.13.0)
       actionview (>= 5.0.0)
       activesupport (>= 5.0.0)
-<<<<<<< HEAD
-    json (2.8.2)
-=======
     json (2.9.1)
->>>>>>> fe92c1a (chore: Update gems to their latest versions)
     kamal (2.4.0)
       activesupport (>= 7.0)
       base64 (~> 0.2)
@@ -149,11 +141,7 @@ GEM
       zeitwerk (>= 2.6.18, < 3.0)
     language_server-protocol (3.17.0.3)
     logger (1.6.4)
-<<<<<<< HEAD
-    loofah (2.23.1)
-=======
     loofah (2.24.0)
->>>>>>> fe92c1a (chore: Update gems to their latest versions)
       crass (~> 1.0.2)
       nokogiri (>= 1.12.0)
     mail (2.8.1)
@@ -182,26 +170,6 @@ GEM
       net-protocol
     net-ssh (7.3.0)
     nio4r (2.7.4)
-<<<<<<< HEAD
-    nokogiri (1.18.0)
-      mini_portile2 (~> 2.8.2)
-      racc (~> 1.4)
-    nokogiri (1.18.0-aarch64-linux-gnu)
-      racc (~> 1.4)
-    nokogiri (1.18.0-aarch64-linux-musl)
-      racc (~> 1.4)
-    nokogiri (1.18.0-arm-linux-gnu)
-      racc (~> 1.4)
-    nokogiri (1.18.0-arm-linux-musl)
-      racc (~> 1.4)
-    nokogiri (1.18.0-arm64-darwin)
-      racc (~> 1.4)
-    nokogiri (1.18.0-x86_64-darwin)
-      racc (~> 1.4)
-    nokogiri (1.18.0-x86_64-linux-gnu)
-      racc (~> 1.4)
-    nokogiri (1.18.0-x86_64-linux-musl)
-=======
     nokogiri (1.18.1)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
@@ -220,7 +188,6 @@ GEM
     nokogiri (1.18.1-x86_64-linux-gnu)
       racc (~> 1.4)
     nokogiri (1.18.1-x86_64-linux-musl)
->>>>>>> fe92c1a (chore: Update gems to their latest versions)
       racc (~> 1.4)
     ostruct (0.6.1)
     parallel (1.26.3)
@@ -281,11 +248,7 @@ GEM
     rake (13.2.1)
     rdoc (6.10.0)
       psych (>= 4.0.0)
-<<<<<<< HEAD
-    regexp_parser (2.9.2)
-=======
     regexp_parser (2.10.0)
->>>>>>> fe92c1a (chore: Update gems to their latest versions)
     reline (0.6.0)
       io-console (~> 0.5)
     rexml (3.4.0)
@@ -318,11 +281,7 @@ GEM
       rubocop-performance
       rubocop-rails
     ruby-progressbar (1.13.0)
-<<<<<<< HEAD
-    rubyzip (2.3.2)
-=======
     rubyzip (2.4)
->>>>>>> fe92c1a (chore: Update gems to their latest versions)
     securerandom (0.4.1)
     selenium-webdriver (4.27.0)
       base64 (~> 0.2)
@@ -339,29 +298,13 @@ GEM
       activejob (>= 7.2)
       activerecord (>= 7.2)
       railties (>= 7.2)
-<<<<<<< HEAD
-    solid_queue (1.1.1)
-=======
     solid_queue (1.1.2)
->>>>>>> fe92c1a (chore: Update gems to their latest versions)
       activejob (>= 7.1)
       activerecord (>= 7.1)
       concurrent-ruby (>= 1.3.1)
       fugit (~> 1.11.0)
       railties (>= 7.1)
       thor (~> 1.3.1)
-<<<<<<< HEAD
-    sqlite3 (2.4.1-aarch64-linux-gnu)
-    sqlite3 (2.4.1-aarch64-linux-musl)
-    sqlite3 (2.4.1-arm-linux-gnu)
-    sqlite3 (2.4.1-arm-linux-musl)
-    sqlite3 (2.4.1-arm64-darwin)
-    sqlite3 (2.4.1-x86-linux-gnu)
-    sqlite3 (2.4.1-x86-linux-musl)
-    sqlite3 (2.4.1-x86_64-darwin)
-    sqlite3 (2.4.1-x86_64-linux-gnu)
-    sqlite3 (2.4.1-x86_64-linux-musl)
-=======
     sqlite3 (2.5.0-aarch64-linux-gnu)
     sqlite3 (2.5.0-aarch64-linux-musl)
     sqlite3 (2.5.0-arm-linux-gnu)
@@ -372,7 +315,6 @@ GEM
     sqlite3 (2.5.0-x86_64-darwin)
     sqlite3 (2.5.0-x86_64-linux-gnu)
     sqlite3 (2.5.0-x86_64-linux-musl)
->>>>>>> fe92c1a (chore: Update gems to their latest versions)
     sshkit (1.23.2)
       base64
       net-scp (>= 1.1.2)
